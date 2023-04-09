@@ -1,0 +1,16 @@
+.battery{
+    padding: 20px;
+    margin: 20px 50px;
+    background-color: lightskyblue;
+    box-shadow: 5px 5px 10px rgb(177, 192, 224);
+}
+.btn-battery{
+    border-radius: 10px;
+    padding: 7px 15px;
+    border: none;
+    background-color: rgb(141, 79, 155);
+    color: aliceblue;
+}
+.btn-battery:hover{
+    background-color:rgb(102, 20, 51) ;
+}
